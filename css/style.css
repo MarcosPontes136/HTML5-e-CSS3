@@ -1,93 +1,36 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+
+
 .navbar{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(41, 5, 5);
 }
 
 .navbarletra{
     color: rgb(255, 255, 255);
 }
 
-.quem_sou_eu{
-    background-color: rgb(0, 0, 0);
-}
-
-.margin{
-    margin-top: 0.1cm;
-}
-
-.img_capa{
-    margin-right: 50px ;
-    margin-left: 150px;
-    width: 80%;
-    height: 350px;
-}
-
 .titulo{
-    
-    font-family: fantasy;
-    font-size: 50px;
     color: rgb(0, 0, 0);
-    margin-left: 100px;
-
+    fon
+}
+.quem_sou_eu{
+    background-color: rgb(36, 35, 35);
+    color: rgb(255, 255, 255);
 }
 
-.quem_eu_sou{
-    margin-left: 100px;
-    margin-right: 800px ;
-    font-size: 20px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.meio{ 
-    margin-right: 200px;
-    margin-left: 100px;
-    width: 40%;
-    height: 320px;
-
-}
-
-.normal{
-    margin-left: 100px;
-    margin-right: 850px;
-    font-size: 20px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.esticado{
-    margin-left: 100px;
-    margin-right: 530px;
-    font-size: 20px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
+.porque{
+    background-color: rgb(54, 4, 4);
 }
 
 .comecei{
-    margin-right: 200px;
-    margin-left: 100px;
-    width: 30%;
-    height: 320px;
+    background-color: rgb(68, 12, 12);
 }
 
-.meu_canal{
-    margin-left: 100px;
-    margin-right: 650px;
-    font-size: 20px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
-}
+.margin{
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
 
-.email{
-    margin-left: 50px;
-    margin-right: 250px;
-    font-size: 15   px;
-    color: rgb(255, 255, 255);
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.imagem_pequena{
-    margin-right: 00px;
-    margin-left: 50px;
-    width: 4%;
-    height: 40px;
 }
