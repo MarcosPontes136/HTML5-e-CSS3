@@ -1,39 +1,25 @@
 
 body{
-    font: 20px Arial, sans-serif;
+   position: relative;
+   box-sizing: border-box;
+}
+.cor_texto_slide{
+    color: black;
+
 }
 
+.navbar_nome{
+    margin-left: 2mm
 
-.navbar{
-    background-color: rgb(41, 5, 5);
 }
 
-.navbarletra{
-    color: rgb(255, 255, 255);
+.colunas_do_container{
+    margin-top: 2%;
+    margin-left: 0%;
+
 }
 
-.titulo{
-    color: rgb(0, 0, 0);
-    fon
-}
-.quem_sou_eu{
-    background-color: rgb(36, 35, 35);
-    color: rgb(255, 255, 255);
-}
-
-.porque{
-    background-color: rgb(54, 4, 4);
-}
-
-.comecei{
-    background-color: rgb(68, 12, 12);
-}
-
-.contato{
-    background-color: rgb(41, 5, 5);
-}
-.margin{
-    padding-top: 0.5cm;
-    padding-bottom: 0.5cm;
-
+.coluna_do_container_meio{
+    margin-top: 8%;
+    
 }
